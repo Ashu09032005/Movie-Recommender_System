@@ -1,7 +1,2 @@
 # Movie-Recommender_System
-This repository features a Spotify Clone built entirely using HTML, CSS, and JavaScript, designed to replicate the look and feel of the Spotify platform. The project emphasizes creating a responsive, user-friendly interface with interactive elements and functional components.
-Key Features:
-Responsive Design: Ensures the layout adapts seamlessly to different screen sizes, providing an optimal user experience on desktops, tablets, and mobile devices.
-Music Player Functionality: Includes essential controls like play, pause, next, and previous, along with a progress bar to track playback.
-Basic Animations: Smooth transitions and hover effects enhance the overall user experience.
-This project demonstrates the integration of front-end technologies to build a dynamic web application. It serves as a great practice for aspiring developers interested in modern UI design and client-side interactivity.
+This repository contains the implementation of a Movie Recommender System using Python. The project demonstrates both content-based and collaborative filtering techniques to provide personalized movie recommendations. Built using Jupyter Notebook for exploratory data analysis and PyCharm for production-ready code, this project serves as a comprehensive guide to understanding and creating recommendation systems. The dataset is preprocessed and analyzed using libraries like Pandas and NumPy, while machine learning algorithms from Scikit-Learn are used to compute recommendations. This repository is perfect for beginners looking to learn about recommender systems or developers seeking a foundational project to build upon.
